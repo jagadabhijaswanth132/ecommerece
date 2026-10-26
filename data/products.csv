@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P201,Laptop,Electronics,50000
+P202,Phone,Electronics,25000
+P203,Office Chair,Furniture,7500
+P204,Desk,Furniture,12000
+P205,Headphones,Accessories,2000
+P206,Keyboard,Accessories,1500
+P207,Monitor,Electronics,14000
+P208,Water Bottle,Home,500
+P209,Backpack,Accessories,1800
+P210,Table Lamp,Home,2200
